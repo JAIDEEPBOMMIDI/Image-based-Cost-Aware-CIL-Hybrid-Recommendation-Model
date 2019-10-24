@@ -1,4 +1,4 @@
-# Image-based-Cost-Aware-CIL-Hybrid-Recommendation-Model
+# Image-based-Cost-Aware-CIL-Hybrid-Recommendation-Model (Bachelor Thesis)
 
 Repository will be made available shortly. (Permission required from Supervisior)
 
